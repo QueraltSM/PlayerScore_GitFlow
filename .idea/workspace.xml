@@ -4,9 +4,6 @@
     <list default="true" id="01d62606-25a3-42bd-8988-f5afa2177948" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../functions/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bowling_Game" beforeDir="false" afterPath="$PROJECT_DIR$/../Bowling_Game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../functions/src/es/ulpgc/functions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/src/es/ulpgc/functions/Main.java" afterDir="false" />
     </list>
@@ -65,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding>
                 <element signature="e#212#213#0" expanded="true" />
                 <element signature="e#259#260#0" expanded="true" />
@@ -166,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540390984834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540392200409" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -293,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding>
             <element signature="e#212#213#0" expanded="true" />
             <element signature="e#259#260#0" expanded="true" />
