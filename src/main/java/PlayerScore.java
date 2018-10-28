@@ -4,9 +4,7 @@ import java.util.List;
 public class PlayerScore {
     private final List<Integer> rolls;
 
-    public PlayerScore(String name) {
-        this.rolls = new ArrayList<Integer>();
-    }
+    public PlayerScore(String name) { this.rolls = new ArrayList<Integer>(); }
 
     public List<Frame> frames() {
         List<Frame> frames = new ArrayList<Frame>();
@@ -25,16 +23,10 @@ public class PlayerScore {
             this.offset = offset;
         }
 
-        public boolean isStrike() {
-            return roll(0) == 10;
-        }
+        public boolean isStrike() { return roll(0) == 10; }
 
-        private Integer roll(int i) {
-            return isOutOfBounds(i) ? rolls.get(i + offset) : 0;
-        }
+        private Integer roll(int i) { return isOutOfBounds(i) ? rolls.get(i + offset) : 0; }
 
-        private boolean isOutOfBounds(int i) {
-            return i < rolls.size() - offset;
-        }
+        private boolean isOutOfBounds(int i) { return i < rolls.size() - offset; }
     }
 }
