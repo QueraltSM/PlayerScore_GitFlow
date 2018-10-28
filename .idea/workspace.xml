@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d62606-25a3-42bd-8988-f5afa2177948" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/PlayerScore$Frame.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../functions/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bowling_Game" beforeDir="false" afterPath="$PROJECT_DIR$/../Bowling_Game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PlayerScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlayerScore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PlayerScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PlayerScore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PlayerScore_GitFlow_.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PlayerScore_GitFlow_.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../functions/src/es/ulpgc/functions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/src/es/ulpgc/functions/Main.java" afterDir="false" />
     </list>
@@ -33,13 +29,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="123" />
+          <entry key="java" value="131" />
           <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="123" />
+          <entry key="JAVA" value="131" />
           <entry key="XML" value="10" />
         </counts>
       </usages-collector>
@@ -66,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="e#212#213#0" expanded="true" />
                 <element signature="e#266#267#0" expanded="true" />
@@ -79,21 +75,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PlayerScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#287#294#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,8 +104,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/PlayerScore.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayerScore.java" />
       </list>
     </option>
   </component>
@@ -141,9 +130,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,31 +309,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PlayerScore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#287#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PlayerScore.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_GitFlow_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
           </folding>
         </state>
       </provider>
